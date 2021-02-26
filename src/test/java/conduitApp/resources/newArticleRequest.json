@@ -1,0 +1,11 @@
+{
+    "article": {
+        "tagList": [
+            "#mytag",
+            "#blabla"
+        ],
+        "title": "my article",
+        "description": "my article desc",
+        "body": "my article body"
+    }
+}
